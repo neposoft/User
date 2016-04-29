@@ -16,6 +16,12 @@ return [
     */
     'redirect_route_after_login' => 'homepage',
     /*
+    
+    /**
+    | * Whether to allow to register in the site publicly or not.
+    | */
+    //'allow_user_registration' => false,
+    
     |--------------------------------------------------------------------------
     | Login column(s)
     |--------------------------------------------------------------------------
